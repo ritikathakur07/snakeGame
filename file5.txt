@@ -1,0 +1,15 @@
+S C O R E   B O A R D:
+Player Name: sediqa = 10
+Player Name: Tina = 80
+Player Name: Mehak = 0
+Player Name: Anam = 0
+Player Name: Nandini = 20
+Player Name: Krish = 100
+Player Name: Aastha = 0
+Player Name: Navkiran = 0
+Player Name: Miyan = 30
+Player Name: Simran = 10
+Player Name: Arpana = 10
+Player Name: Drishti = 30
+Player Name: Sean = 20
+
